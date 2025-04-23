@@ -1,6 +1,8 @@
 # 3D Robotic Arm - SolidWorks Project
 
-![Robotic Arm](./path_to_your_image/Screenshot%202025-04-23%20194415.png)
+![Screenshot 2025-04-23 194415](https://github.com/user-attachments/assets/e013062e-f691-418f-a81b-b7f431bea7f1)
+
+
 
 ## Overview
 
