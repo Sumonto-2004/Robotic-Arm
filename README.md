@@ -42,3 +42,9 @@ This project features a 3D model of a **robotic arm** designed using **SolidWork
 
 - SolidWorks 2021 or newer.
 - Basic knowledge of 3D modeling and assembly.
+
+## 🔽 Download
+
+You can download the entire SolidWorks project in one click:
+
+- [Robotic Arm.zip](https://github.com/user-attachments/files/19872951/Robotic.Arm.zip)
