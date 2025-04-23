@@ -30,3 +30,17 @@ This project features a 3D model of a **robotic arm** designed using **SolidWork
 │   ├── Screenshot 2025-04-23 194339.png
 │   └── Screenshot 2025-04-23 194415.png
 └── README.md
+
+How to Use
+Clone this repository to your local machine.
+
+Open Assem1.SLDASM using SolidWorks 2021 or later.
+
+Explore the assembly and use the motion study features to animate and test the arm.
+
+Customize parts or integrate it with your own project.
+
+Requirements
+SolidWorks 2021 or newer.
+
+Basic knowledge of 3D modeling and assembly.
